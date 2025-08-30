@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://slbcalwijjvbyjcetilg.supabase.co'
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNsYmNhbHdpamp2YnlqY2V0aWxnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYxNTc3ODcsImV4cCI6MjA3MTczMzc4N30.JfIch1JfC9yx8kgwQi2c5EPJ_DIu432xnZD_-mmpAkk'
